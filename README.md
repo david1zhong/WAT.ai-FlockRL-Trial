@@ -1,4 +1,4 @@
-## How to Use
+# How to Use
 - Run code in terminal
 - Enter a command
     - Valid directions: forward, backward, left, right, up, down
